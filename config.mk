@@ -91,3 +91,11 @@ PRODUCT_PACKAGES += \
     QStileSquircleTrim \
     QStileTeardrop \
     QStileWavey
+
+# qs header
+PRODUCT_PACKAGES += \
+    QSHeaderBlack \
+    QSHeaderGrey \
+    QSHeaderLightGrey \
+    QSHeaderAccent \
+    QSHeaderTransparent
