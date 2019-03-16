@@ -82,6 +82,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GBoardLight
 
+# overlay
+PRODUCT_PACKAGES += \
+    NoCutoutOverlay
+
 # qs
 PRODUCT_PACKAGES += \
     QStileDefault \
