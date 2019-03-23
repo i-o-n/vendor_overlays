@@ -99,3 +99,19 @@ PRODUCT_PACKAGES += \
     QSHeaderLightGrey \
     QSHeaderAccent \
     QSHeaderTransparent
+
+# switch
+PRODUCT_PACKAGES += \
+    ionSwitch \
+    SwitchMD2 \
+    SwitchOnePlus \
+    SwitchStock \
+    SwitchOne \
+    SwitchTwo \
+    SwitchThree \
+    SwitchFour \
+    SwitchFive \
+    SwitchSix \
+    SwitchSeven \
+    SwitchEight \
+    SwitchNine
