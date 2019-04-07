@@ -55,7 +55,8 @@ PRODUCT_PACKAGES += \
     HazedPink \
     ColdYellow \
     NewHouseOrange \
-    IllusionsPurple
+    IllusionsPurple \
+    AccentOnePlusRed
 
 # black
 PRODUCT_PACKAGES += \
