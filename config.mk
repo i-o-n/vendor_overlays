@@ -63,7 +63,10 @@ PRODUCT_PACKAGES += \
     SystemDark \
     SystemUIDark \
     GBoardDark \
-    WellbeingDark
+    WellbeingDark \
+    DeviceSettingsDark \
+    DeviceSettings2Dark \
+    DeviceSettings3Dark
 
 # light
 PRODUCT_PACKAGES += \
