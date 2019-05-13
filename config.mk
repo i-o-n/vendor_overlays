@@ -57,6 +57,12 @@ PRODUCT_PACKAGES += \
     NewHouseOrange \
     IllusionsPurple
 
+# black
+PRODUCT_PACKAGES += \
+    SystemBlack \
+    SystemUIBlack \
+    DocumentsUIBlack
+
 # dark
 PRODUCT_PACKAGES += \
     SettingsDark \
