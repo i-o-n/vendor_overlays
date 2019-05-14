@@ -56,7 +56,8 @@ PRODUCT_PACKAGES += \
     ColdYellow \
     NewHouseOrange \
     IllusionsPurple \
-    AccentOnePlusRed
+    AccentOnePlusRed \
+    UserEight
 
 # black
 PRODUCT_PACKAGES += \
