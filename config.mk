@@ -68,7 +68,6 @@ PRODUCT_PACKAGES += \
 
 # dark
 PRODUCT_PACKAGES += \
-    SettingsDark \
     SystemDark \
     SystemUIDark \
     GBoardDark \
