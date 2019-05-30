@@ -68,6 +68,7 @@ PRODUCT_PACKAGES += \
 
 # dark
 PRODUCT_PACKAGES += \
+    FaceLockDark \
     SystemDark \
     SystemUIDark \
     GBoardDark \
