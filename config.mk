@@ -73,9 +73,6 @@ PRODUCT_PACKAGES += \
     SystemUIDark \
     GBoardDark \
     WellbeingDark \
-    DeviceSettingsDark \
-    DeviceSettings2Dark \
-    DeviceSettings3Dark \
     DocumentsUIDark
 
 # light
