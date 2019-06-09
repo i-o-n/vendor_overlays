@@ -104,7 +104,12 @@ PRODUCT_PACKAGES += \
     QStileSquircle \
     QStileSquircleTrim \
     QStileTeardrop \
-    QStileWavey
+    QStileWavey \
+    QStileNeonlike \
+    QStileOOS \
+    QStileTriangles \
+    QStileDivided \
+    QStileCosmos
 
 # qs header
 PRODUCT_PACKAGES += \
