@@ -90,26 +90,32 @@ PRODUCT_PACKAGES += \
     QStileCircleDualTone \
     QStileCircleGradient \
     QStileCookie \
+    QStileCosmos \
+    QStileDiamond \
+    QStileDivided \
     QStileDottedCircle \
     QStileDualToneCircle \
+    QStileGear \
+    QStileHexagon \
     QStileInk \
     QStileInkdrop \
     QStileMountain \
+    QStileNeonlike \
     QStileNinja \
     QStileOreo \
     QStileOreoCircleTrim \
     QStileOreoSquircleTrim \
+    QStileOxygen \
     QStilePokesign \
-    QStileSquaremedo \
+    QStileRoundedSquare \
+    QStileSquare \
     QStileSquircle \
     QStileSquircleTrim \
+    QStileSquaremedo \
+    QStileStar \
     QStileTeardrop \
-    QStileWavey \
-    QStileNeonlike \
-    QStileOOS \
     QStileTriangles \
-    QStileDivided \
-    QStileCosmos
+    QStileWavey
 
 # qs header
 PRODUCT_PACKAGES += \
