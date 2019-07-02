@@ -86,6 +86,7 @@ PRODUCT_PACKAGES += \
 # qs
 PRODUCT_PACKAGES += \
     QStileDefault \
+    QStileCircle \
     QStileCircleTrim \
     QStileCircleDualTone \
     QStileCircleGradient \
