@@ -77,7 +77,8 @@ PRODUCT_PACKAGES += \
 
 # light
 PRODUCT_PACKAGES += \
-    GBoardLight
+    GBoardLight \
+    SystemLight
 
 # overlay
 PRODUCT_PACKAGES += \
