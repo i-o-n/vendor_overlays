@@ -15,3 +15,16 @@ PRODUCT_PACKAGES += \
     AccentColorTealOverlay \
     AccentColorVioletOverlay \
     AccentColorYellowOverlay
+
+# fonts
+PRODUCT_PACKAGES += \
+    FontAppleMintOverlay \
+    FontCartoonistHandOverlay \
+    FontChinacatOverlay \
+    FontLatoOverlay \
+    FontRobotoOrigOverlay \
+    FontRosemaryOverlay \
+    FontRubikOverlay \
+    FontSanFransiscoOverlay \
+    FontSlateProOverlay \
+    FontZillaSlabOverlay
